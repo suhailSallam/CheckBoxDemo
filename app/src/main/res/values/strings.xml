@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">check box</string>
+    <string name="result">Result</string>
+    <string name="red">Red Color</string>
+    <string name="blue">Blue Color</string>
+    <string name="green">Green Color</string>
+    <string name="black">Black Color</string>
+    <string name="show">Show Sellection</string>
+</resources>
